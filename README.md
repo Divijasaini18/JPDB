@@ -12,4 +12,6 @@ Benefits of using JsonPowerDB:
             -Reliable
             -Time efficient
             -Huge storage
-Release history:
+Release history:Released on 30 June 2020.
+Scope: More functionalities are to be added in it in future which will help in increasin the scope of the project.
+Sources: http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js 
